@@ -7,7 +7,6 @@
 - Agregação para Análise de Dados
 - Funções Window e Subqueries
 - Análise Exploratória de Dados
-- Tarefa de Limpeza e Transformação de Dados
 - Limpeza e Processamento de Dados
 - Análise de Dados com SQL
 
